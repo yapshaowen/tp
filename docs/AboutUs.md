@@ -16,10 +16,8 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 <img src="images/yapshaowen.png" width="200px">
 
 [[github](https://github.com/yapshaowen)]
-[[portfolio](team/johndoe.md)]
 
-* Role: Scheduling and tracking
-* Responsibilities: Model
+* Role: Scheduling and deadline
 
 ### Cody
 
@@ -31,14 +29,13 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 * Role: Developer
 * Responsibilities: Data
 
-### Johnny Doe
+### Jackson Chia Dong
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/jacksoncddd.png" width="200px">
 
-[[github](http://github.com/johndoe)] [[portfolio](team/johndoe.md)]
+[[github](https://github.com/jacksoncddd)]
 
-* Role: Developer
-* Responsibilities:
+* Role: Data Gooner
 
 ### Jean Doe
 
